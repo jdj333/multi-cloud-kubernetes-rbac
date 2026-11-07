@@ -1,0 +1,13 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars
+!*.tfvars.example
+crash.log
+.venv/
+__pycache__/
+build/
+*.kubeconfig
+.env
+!*.example

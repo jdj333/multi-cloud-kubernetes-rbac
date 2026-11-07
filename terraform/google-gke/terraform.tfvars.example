@@ -1,0 +1,5 @@
+project_id           = "example-project-id"
+cluster_name         = "example-gke"
+location             = "us-central1"
+reader_group_email   = "platform-readers@example.com"
+security_group_email = "gke-security-groups@example.com"
